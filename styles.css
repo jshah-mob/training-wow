@@ -19,3 +19,7 @@ p {
 div {
   color: transparent;
 }
+
+H1 { 
+  outline: none;
+}
